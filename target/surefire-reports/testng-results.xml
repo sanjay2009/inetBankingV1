@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="inetBankingSuite" duration-ms="61820" started-at="2020-07-23T08:15:13Z" finished-at="2020-07-23T08:16:15Z">
+    <groups>
+    </groups>
+    <test name="inetBankingTestProject1" duration-ms="61820" started-at="2020-07-23T08:15:13Z" finished-at="2020-07-23T08:16:15Z">
+      <class name="com.inetBanking.TestCases.AddcustomerDetailsTC">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.inetBanking.TestCases.AddcustomerDetailsTC@79cee3]" name="setup" is-config="true" duration-ms="32290" started-at="2020-07-23T08:15:14Z" finished-at="2020-07-23T08:15:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="addNewCustomerDetails()[pri:0, instance:com.inetBanking.TestCases.AddcustomerDetailsTC@79cee3]" name="addNewCustomerDetails" duration-ms="26216" started-at="2020-07-23T08:15:46Z" finished-at="2020-07-23T08:16:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewCustomerDetails -->
+        <test-method status="PASS" signature="teadDown()[pri:0, instance:com.inetBanking.TestCases.AddcustomerDetailsTC@79cee3]" name="teadDown" is-config="true" duration-ms="2359" started-at="2020-07-23T08:16:13Z" finished-at="2020-07-23T08:16:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teadDown -->
+      </class> <!-- com.inetBanking.TestCases.AddcustomerDetailsTC -->
+    </test> <!-- inetBankingTestProject1 -->
+  </suite> <!-- inetBankingSuite -->
+</testng-results>
